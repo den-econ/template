@@ -4,20 +4,26 @@ fills with what this repo is about. If there is a question about this repo, feel
 
 ## How to use
 
-fills with some descriptions of important files
+### Requirements
 
-To use:
+Anda memerlukan instalasi Stata dan memerlukan paket `XTPMG`, `outreg2` dan `esttab`.
 
-1. run prepare.do
-2. run analysis.do
+Cara penggunaan:
 
-## Citation
+Gunakan IDE favorit anda. Lalu jalankan program-program berikut ini:
 
-Please cite this repository as such:
+1. prepare.do
+2. analysis.do
+
+Hasil data yang bersih akan ada di folder "data", hasil gambar akan ada di folder "fig" dan hasil regresi akan ada di fodler "reg".
+
+## Sitasi
+
+Sitasi yang dapat digunakan adalah:
 
 Last, First. year. paper name. DEN Working Paper no. x.
 
-or use bibtex:
+atau jika anda menggunakan bibtex:
 
 ```bibtex
 @article{citekey,
@@ -29,3 +35,10 @@ or use bibtex:
   url = {}
 }
 ```
+
+## Lisensi dan Hak Cipta
+Seluruh aset, kode, dan data dalam repositori ini dilindungi di bawah **Lisensi DEN**.
+
+Penggunaan, penggandaan, atau pendistribusian materi di dalam repositori ini harus mematuhi ketentuan yang tercantum dalam file **[LICENSE](LICENSE)**.
+
+*Hak Cipta (c) 2026 Dewan Ekonomi Nasional Republik Indonesia (DEN)*
