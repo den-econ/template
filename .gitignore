@@ -43,11 +43,7 @@ _quarto/
 .quarto/
 
 # ── Large data files (use Dataverse or Zenodo instead) ───────
-data/raw/*.dta
-data/raw/*.csv
-data/raw/*.xlsx
-data/raw/*.xls
-data/raw/*.zip
+data/raw/*
 
 # Exceptions: allow small reference files if needed
 # !data/raw/small_lookup_table.csv
